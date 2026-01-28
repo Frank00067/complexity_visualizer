@@ -1,4 +1,5 @@
 Flask Image Analysis Application
+
 📌 Project Overview
 
 This project is a simple Flask web application that demonstrates how to:
