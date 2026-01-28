@@ -1,3 +1,18 @@
+Flask Image Analysis Application
+📌 Project Overview
+
+This project is a simple Flask web application that demonstrates how to:
+
+Store uploaded images
+
+Run an analysis algorithm on those images
+
+Save both the image information and analysis results in a database
+
+The goal of this project is to show proper backend design, database relationships, and basic Flask integration.
+
+
+
 # Algorithm Analysis Flask App
 
 A simple Flask API that analyzes algorithm performance and returns execution times plus a Base64 graph image.
